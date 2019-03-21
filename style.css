@@ -1,14 +1,15 @@
 body {
 	margin: 0;
 	font-family: montserrat;
-}
-
-#logo{
-	height: 80px;
-	width: 80px;
+	background-color: #FD1015;
 }
 h1 {
 	font-weight: 100;
+	color: white;
+}	
+#logo{
+	height: 80px;
+	width: 80px;
 }
 #container {
 	display: flex;
